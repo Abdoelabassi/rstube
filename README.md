@@ -44,5 +44,5 @@ Full release for Windows, MacoOS soon...
 
 Here’s a screenshot of Rstube app:
 
-![Rstube Screenshot](screenshot/theapp.png)
+![Rstube Screenshot](screenshots/theapp.png)
 
