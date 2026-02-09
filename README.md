@@ -35,3 +35,14 @@ cargo build --release
 ---
 
 Full release for Windows, MacoOS soon...
+
+---
+
+## Screenshots
+
+## Screenshot
+
+Here’s a screenshot of Rstube app:
+
+![Rstube Screenshot](screenshot/theapp.png)
+
