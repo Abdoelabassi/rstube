@@ -1,9 +1,8 @@
-// Rust YouTube Downloader — Boss Level Edition (v1.0)
+// Rust YouTube Downloader
 // GUI: egui/eframe
 // Backend: Tokio async
 // Features: progress bar, history, format select, folder picker, clean architecture
 // Core idea: GUI spawns async download tasks, no blocking threads
-// Educational use only. Respect platform Terms of Service.
 
 use eframe::{egui, App};
 use std::{

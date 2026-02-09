@@ -1,6 +1,6 @@
 # Rstube
 
-**Rstube** is a Rust-based YouTube video downloader with a GUI.
+**Rstube** is a Rust-based YouTube video downloader with a GUI using egui/eframe.
 It allows you to download videos directly from YouTube, supporting both video and audio streams. This first version is a single-file Rust project (`main.rs`) using `yt-dlp` for fetching and downloading content.
 
 ---
@@ -9,9 +9,12 @@ It allows you to download videos directly from YouTube, supporting both video an
 
 - Download individual YouTube videos by URL
 - Async downloads using Rust + Tokio
+- GUI: egui/eframe
 - Progress bar
-- Save video in a prefered path
 - History report
+- format select
+- folder picker
+- clean architecture
 
 
 ---
